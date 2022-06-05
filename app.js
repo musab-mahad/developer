@@ -1,3 +1,4 @@
 const birthYear = 1999;
 const age = 2022 - birthYear;
-console.log(age);
+const retire = 65 - age;
+console.log(age, retire);
